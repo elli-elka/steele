@@ -5,6 +5,7 @@ h1 {
     font-weight: 100;
     font-size: 40px;
     letter-spacing: 20px;
-    text-decoration-style: underline wavy;
+    text-decoration-style: wavy;
+    text-decoration-line: underline;
     text-decoration-color: plum;
 }
