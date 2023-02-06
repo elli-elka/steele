@@ -1,7 +1,7 @@
-.div:nth-of-type(n) {
-    background-color: red
+.square:nth-child(odd) {
+    background-color: red;
 }
 
-.div:nth-of-type(2n) {
-    background-color: black
+.square:nth-child(even) {
+    background-color: black;
 }
