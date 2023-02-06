@@ -1,0 +1,7 @@
+.div:nth-of-type(n) {
+    background-color: red
+}
+
+.div:nth-of-type(2n) {
+    background-color: black
+}
