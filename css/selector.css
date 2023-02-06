@@ -11,3 +11,7 @@ li.done {
     color: white;
 
 }
+
+li a {
+    color: teal;
+}
