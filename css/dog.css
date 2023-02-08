@@ -1,6 +1,6 @@
 div {
     width: 210px;
-    border-color: grey;
+    border: 1px grey;
     border-radius: 5px;
     text-align: center;
 }
